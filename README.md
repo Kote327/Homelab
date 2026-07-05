@@ -8,5 +8,17 @@
 - Cloudflare Tunnel
 - VLAN
 ## 目的
-
 インフラ、ネットワーク、セキュリティの学習と、将来的な副業・起業のため
+
+## 構成
+### Node 1
+CPU: i7-3632QM
+Memory: 16GB
+Storage: SSD
+### Node 2
+CPU: i5-12400F
+Memory: 32GB
+GPU: RTX3060 12GB
+Storage: SSD + HDD
+### Network
+VLAN: 管理用 / クライアント用 / サーバー用
